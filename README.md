@@ -12,16 +12,27 @@ The project aimed to identify optimal locations for private schools in various n
 ### Data Sources:
 
 Toronto Signature Sites:
+
 Source: Toronto data portal
+
 Attributes: Site name, geometry, unique identifier (_id)
+
 Statistic Canada Census Data 2021 (Income Data):
+
 Source: Census mapper API
+
 Attributes: Neighborhood name, median income, geometry, unique identifier (name)
+
 School Locations - All Types:
+
 Source: Toronto data portal
+
 Attributes: School type, geometry, unique identifier (_id)
+
 Statistic Canada Census Data 2021 (Population Density Data):
+
 Source: Census mapper API
+
 Attributes: Neighborhood name, population count, geometry, unique identifier (name)
 
 ### Methodology/Analysis:
